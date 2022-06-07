@@ -1,0 +1,54 @@
+.modelo{
+    text-align: center;
+    
+    font-style: italic;
+    text-decoration-color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: rgb(255, 255, 255)
+}
+
+.colortext{
+    color:rgb(24, 23, 23)
+}
+
+.img{
+    width: 400px;
+    height:300px;
+    align-content: center;
+}
+
+
+  
+
+  #menu-h ul {
+      list-style-type: none;
+      padding: 0;
+      background-color: rgb(5, 5, 5);
+
+  }
+  #menu-h ul li{
+      display: inline
+  }
+  #menu-h ul li a{
+      color: #f3ecef;
+      padding: 20px;
+      display: inline-block;
+      text-decoration: none;
+      transition: background 3s;
+      
+  }
+  #menu-h ul li a:hover{
+      background-color: rgb(56, 17, 226);
+  }
+
+  .conteudo ul li{
+      list-style-type: none;
+  }
+
+  .imagem {
+    list-style: none;
+    display: flex;
+    justify-content: space-around 3px;
+    
+  }
